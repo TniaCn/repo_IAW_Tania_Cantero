@@ -14,3 +14,4 @@ if ($number -eq 5)
 - No es absolutamente abierto
 
 [GitHub](https://blog.desdelinux.net/github-vs-gitlab/)
+[Markdown2](https://blog.desdelinux.net/github-vs-gitlab/)
