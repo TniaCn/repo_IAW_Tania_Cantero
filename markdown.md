@@ -18,3 +18,5 @@ if ($number -eq 5)
 [Markdown2](https://github.com/TniaCn/repo_IAW_Tania_Cantero/blob/main/markdown2)
 
 ![alt text](GitHub-logo-2-imagen.jpg)
+
+| Header | Title |
