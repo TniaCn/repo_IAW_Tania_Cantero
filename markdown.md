@@ -19,4 +19,7 @@ if ($number -eq 5)
 
 ![alt text](GitHub-logo-2-imagen.jpg)
 
+| Syntax | Description |
+| ----------- | ----------- |
 | Header | Title |
+| Paragraph | Text |
