@@ -19,7 +19,8 @@ if ($number -eq 5)
 
 ![alt text](GitHub-logo-2-imagen.jpg)
 
-| Syntax | Description |
+| GITLAB |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| ventajas | Desventajas |
+| Plan gratuito y sin limitaciones | Su interfaz puede ser algo más lenta con respecto a la competencia |
+| Es de licencia de código abierto | Existen algunos problemas habituales con los repositorios |
