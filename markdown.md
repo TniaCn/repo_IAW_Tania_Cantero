@@ -19,8 +19,7 @@ if ($number -eq 5)
 
 ![alt text](GitHub-logo-2-imagen.jpg)
 
-| GITLAB | |
-| ----------- | ----------- |
 | ventajas | Desventajas |
-| Plan gratuito y sin limitaciones | Su interfaz puede ser algo más lenta con respecto a la competencia |
-| Es de licencia de código abierto | Existen algunos problemas habituales con los repositorios |
+| ----------- | ----------- |
+| Servicio gratuito | Limitaciones de espacio |
+| Búsqueda rápida | No es absolutamente abierto |
